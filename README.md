@@ -23,6 +23,7 @@
  - Docker;
  - Insomnia;
  - Arquitetura MSC;
+ - Mocha, Sinon e Chai;
 
 ---
 
