@@ -15,6 +15,12 @@
 
 ### Todas essas requisições são executadas em suas respectivas rotas.
 ### A aplicação é configurada para executar em `MySQL`, já que ela utiliza queries `MySQL`.
+
+## Endpoints das requisições:
+ - `/products`;
+ - `/products/:id`;
+ - `/sales`;
+ - `/sales/:id`;
  
  ---
 
