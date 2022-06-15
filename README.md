@@ -13,8 +13,8 @@
  - Exeucutar um PUT para atualizar informações do banco;
  - Exeucutar um DELETE para deletar informações do banco;
 
-## Todas essas requisições são executadas em suas respectivas rotas.
-## A aplicação é configurada para executar em `MySQL`, já que ela utiliza queries `MySQL`.
+### Todas essas requisições são executadas em suas respectivas rotas.
+### A aplicação é configurada para executar em `MySQL`, já que ela utiliza queries `MySQL`.
  
  ---
 
