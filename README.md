@@ -18,6 +18,7 @@
  ---
 
 ## Tecnologias utilizadas:
+ - Express;
  - MySQL;
  - Docker;
  - Insomnia;
