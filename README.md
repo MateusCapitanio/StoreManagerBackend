@@ -7,13 +7,6 @@
 
 ---
 
-## O usuário poderá:
- - Exeucutar um GET para trazer informações do banco;
- - Exeucutar um POST para adicionar informações do banco;
- - Exeucutar um PUT para atualizar informações do banco;
- - Exeucutar um DELETE para deletar informações do banco;
-
-### Todas essas requisições são executadas em suas respectivas rotas.
 ### A aplicação é configurada para executar em `MySQL`, já que ela utiliza queries `MySQL`.
 
 ## Endpoints das requisições:
